@@ -1,4 +1,5 @@
-# My-Portfolio-project-1-
+# My-Portfolio-1st project of mine-
+Hello! 
 Welcome to my portfolio website!
 This repository contains my personal portfolio website, developed using HTML and CSS, to present my skills, projects, and professional background in a clean and structured manner.
 
